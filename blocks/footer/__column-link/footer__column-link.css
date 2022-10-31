@@ -9,7 +9,7 @@
   text-decoration: none;
 }
 
-a:hover {
+.footer__column-link:hover {
   transition-duration: 2s;
   opacity: .5;
-  }
+}
